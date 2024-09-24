@@ -20,7 +20,6 @@ I'm a **Frontend Developer** passionate about **JavaScript**, **React**, and all
 
 ### 🌟 Fun Facts
 
-- 🎮 I enjoy playing video games like [Your Favorite Games].
 - 💡 I’m fascinated by the intersection of **design and code** and how we can create intuitive UIs.
 - 🌱 Constantly learning about **web performance** and **UX**.
 
