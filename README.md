@@ -1,26 +1,38 @@
-# Hi there! 👋 I'm Durgesh Kumbhare 
+# 👋 Hi, I’m Durgesh  
 
-I'm a **Frontend Developer** passionate about **JavaScript**, **React**, and all things web development! 🚀
-
-### 🚀 About Me
-
-- 🔭 Currently working on improving my skills in **React** and **TypeScript**.
-- 🌱 Learning **Next.js** and exploring **GraphQL** for building efficient, scalable web apps.
-- 💬 Ask me about **JavaScript**, **CSS**, **React**, **Frontend architecture**, and **performance optimization**.
-- 🌍 Based in India, but I love contributing to global open-source projects.
-- 📫 How to reach me: dkumbhare619@gmail.com | www.linkedin.com/in/dkumbhare03
+💻 **Full-Stack Developer (Java + React)**  
+I love building reliable backends with **Java/Spring Boot** and crafting clean, responsive UIs with **React & TypeScript**.  
+I enjoy solving tough problems, writing maintainable code, and making apps that scale.  
 
 ---
 
-### 🛠️ Languages and Tools
+## 🚀 Tech Stack  
 
-- Languages: Javascript, HTML, CSS, Typescript
-- Frameworks/Libraries: React.js, Next.js
-- Tools: Git, VSCode, Github
+**Frontend**  
+- React, Redux Toolkit, TypeScript, Vite, React Testing Library  
 
-### 🌟 Fun Facts
+**Backend**  
+- Java 17+, Spring Boot, Spring Security, REST, GraphQL  
+- Microservices, Event-driven systems (Kafka, RabbitMQ)  
 
-- 💡 I’m fascinated by the intersection of **design and code** and how we can create intuitive UIs.
-- 🌱 Constantly learning about **web performance** and **UX**.
+**Databases**  
+- PostgreSQL, MongoDB, Redis  
 
-Let's connect and collaborate! 😊
+**DevOps & Tools**  
+- Docker, Kubernetes, GitHub Actions, AWS (EC2, S3, RDS)  
+- CI/CD pipelines, Testcontainers, JUnit  
+
+---
+
+## 📫 How to reach me  
+- Email: [dkumbhare619@gmail.com](mailto:dkumbhare619@gmail.com)  
+- LinkedIn: [linkedin.com/in/dkumbhare03](https://linkedin.com/in/dkumbhare03)  
+- GitHub: [github.com/durgeshkumbhare](https://github.com/durgeshkumbhare)  
+
+---
+
+## ⚡ Fun fact  
+When I’m not coding, you’ll probably find me exploring system design diagrams, optimizing CI pipelines, or sipping coffee while debugging something that was “working yesterday”. ☕  
+
+---
+⭐️ *Check out my repos below, and let’s build something awesome together!*  
